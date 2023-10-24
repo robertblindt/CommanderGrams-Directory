@@ -1,5 +1,7 @@
 # CommanderGrams
-### Bringing NLP to MTG! 
+## [Hosted on Netflify](https://commandergrams.netlify.app/)
+#### https://commandergrams.netlify.app/
+#### Bringing NLP to MTG! 
 <sub>NLP = Natural Language Processing || MTG = Magic the Gathering</sub>
 #### A look at trends to aid with Deck Building!
 Commander is a format of Magic the Gathering that forces you to select a card (called your Commander) that you have access to throughout the game.  The goal of building your deck is to compliment or synergize with that card, however you can only use 1 of each that you select and the deck must be exactly 100 cards. In a 30 year old game, with 30,000-35,000 unique cards that contain over 200 keywords (essentially one or two words that have sentences or paragraphs of rules text associated with them), where do you start?
