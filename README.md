@@ -8,7 +8,6 @@ Commander is a format of Magic the Gathering that forces you to select a card (c
 This repository contains 2 'apps' that come together to create a deck building app designed to help Commander players get started and better maintain their deck.  I am bringing some aspects of NLP into the my data pipeline in order to try to give players better insight into building with new Commmanders.
 
 There are 3 repositories that make up the whole project.  They can be found here:
-**THIS IS A PLACEHOLDER. WITH THIS API, ONCE YOU SEARCH THE REPO, IT LOCKS IN THE DESCRIPTION, AND I WANT TO UPDATE STUFF STILL!!!!!!**
 <div>
   <p>
     <a href="https://github.com/robertblindt/CommanderGrams-Backend">
