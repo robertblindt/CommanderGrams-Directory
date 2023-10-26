@@ -23,12 +23,12 @@ There are 3 repositories that make up the whole project.  They can be found here
 </div>
 
 ## Project Overview
-This was a delve into creating a CRUD application, and working with a 3 stack project.
-- Used Flask, SQLite (working to upgrade to PostgresSQL/ElephentSQL through Render), and React
+This was a delve into creating a CRUD application, and working with a full stack project independently.
+- Used Flask, SQL, and React
     - Used Selenium to scrape a page for data to then clean and retrieve related data from an API.
-    - Processed and stored data in order to build decks and analyze collections in a SQLite database
+    - Processed and stored data in order to build decks and analyze collections in a Postgres database
     - Used Sklearn, Spacy, and Regex to clean and analyze the meaningful data.
-    - Used React to trigger scraping and data analysis, create and log users, create decks, and show card data and the results of analysis
+    - Used React to trigger the creation and logging of users, create decks, and show card data and the results of analysis
 
 ## Lessons Learned
 - Learned how to set up Docker containers and deploy apps
